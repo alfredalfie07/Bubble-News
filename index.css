@@ -799,10 +799,13 @@ footer #social-media-footer ul li:hover a .fa-twitter {
         padding: 8px 8px;
     }
 
+	/*
+
     .blog-box {
         flex-direction: column;
         
     }
+	*/
 
     #blog .blog-img {
         width: 95%;

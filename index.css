@@ -812,6 +812,12 @@ footer #social-media-footer ul li:hover a .fa-twitter {
     #blog .blog-img {
         width: 100%;
     }
+    #crypto-news {
+        width: 95%;
+    }
+    #page-header {
+        width: 95%;
+    }
 
     
 }

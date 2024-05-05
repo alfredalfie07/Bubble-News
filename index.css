@@ -605,6 +605,7 @@ footer #social-media-footer ul li:hover a .fa-twitter {
 	position: relative;
 	transition: 0.3s;
 }
+/*
 #blog .blog-details a::after{
 	content: "";
 	width: 50px;
@@ -614,6 +615,7 @@ footer #social-media-footer ul li:hover a .fa-twitter {
 	top: 4px;
 	right: -60px;
 }
+*/
 #blog .blog-details a:hover{
 	color: #088178;
 }

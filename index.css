@@ -760,12 +760,6 @@ footer #social-media-footer ul li:hover a .fa-twitter {
         padding: 150px 0px 0px 0px;
     }
 
-    .blog-box {
-        width: 100%;
-        flex-direction: column;
-        
-    }
-
 
 }
 
@@ -801,6 +795,20 @@ footer #social-media-footer ul li:hover a .fa-twitter {
     article {
         width: 95%;
         padding: 8px 8px;
+    }
+
+    .blog-box {
+        flex-direction: column;
+        
+    }
+
+
+    #blog .blog-details {
+        width: 100%;
+    }
+
+    #blog .blog-img {
+        width: 100%;
     }
 
     

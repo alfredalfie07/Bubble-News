@@ -659,6 +659,17 @@ footer #social-media-footer ul li:hover a .fa-twitter {
     nav ul {
         display: none;
     }
+    h1 {
+        font-size: 48px;
+    }
+
+    h2 {
+        font-size: 36px;
+    }
+
+    #banner h3 {
+        font-size: 20px;
+    }
 
     #menu-icon {
         display: flex;
@@ -694,6 +705,17 @@ footer #social-media-footer ul li:hover a .fa-twitter {
 @media (max-width: 719px){
     main {
         width: 95%;
+    }
+    h1 {
+        font-size: 36px;
+    }
+
+    h2 {
+        font-size: 28px;
+    }
+
+    #banner h3 {
+        font-size: 18px;
     }
 
     section {

@@ -769,7 +769,8 @@ footer #social-media-footer ul li:hover a .fa-twitter {
     }
 
     article {
-        width: 100%;
+        width: 95%;
+        padding: 8px 8px;
     }
 
     

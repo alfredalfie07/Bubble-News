@@ -156,7 +156,7 @@ nav ul{
 #logo-img{
     display: flex;
     height: 100%;
-    background: #111;
+    /*background: #111;*/
     padding: 0 32px;
     align-items: center;
     color: white;
@@ -166,6 +166,7 @@ nav ul{
 #logo-img img{
     height: 72px;
     width: 150px;
+    border-radius: 20px;
 }
 
 #logo-img:hover {

@@ -672,6 +672,7 @@ footer #social-media-footer ul li:hover a .fa-twitter {
 	width: 95%;
 	height: auto;
 	object-fit: cover;
+	border-radius: 20px;
 }
 #blog .blog-details {
 	width: 50%;

@@ -344,6 +344,9 @@ section{
 .card-image {
     transition: 0.4s;
 }
+.card-image img{
+    border-radius: 20px;
+}
 
 .card-image:hover {
     box-shadow: 0 10px 6px -6px #777;

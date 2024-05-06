@@ -241,6 +241,8 @@ article {
     margin: 1%;
     background-color: #ccc;
     padding: 8px 16px;
+    border-radius: 20px;
+
 }
 
 article .news-img {

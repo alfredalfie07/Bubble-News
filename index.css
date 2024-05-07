@@ -346,6 +346,7 @@ section{
 .card-image {
     transition: 0.4s;
 }
+
 .card-image img{
     border-radius: 20px;
 }
@@ -473,7 +474,6 @@ button.normal{
 	outline: none;
 	transition: 0.2s;
 }
-
 
 /* Footer */
 
@@ -672,7 +672,7 @@ footer #social-media-footer ul li:hover a .fa-twitter {
 	width: 95%;
 	height: auto;
 	object-fit: cover;
-	border-radius: 20px;
+    border-radius: 20px;
 }
 #blog .blog-details {
 	width: 50%;
@@ -741,6 +741,7 @@ footer #social-media-footer ul li:hover a .fa-twitter {
     nav ul {
         display: none;
     }
+
     h1 {
         font-size: 48px;
     }
@@ -752,6 +753,8 @@ footer #social-media-footer ul li:hover a .fa-twitter {
     #banner h3 {
         font-size: 20px;
     }
+
+    
 
     #menu-icon {
         display: flex;
@@ -788,6 +791,7 @@ footer #social-media-footer ul li:hover a .fa-twitter {
     main {
         width: 95%;
     }
+
     h1 {
         font-size: 36px;
     }
@@ -857,10 +861,11 @@ footer #social-media-footer ul li:hover a .fa-twitter {
     h2 {
         font-size: 18px;
     }
-	
+
     body {
         overflow-x: hidden;
     }
+
 
     #banner h3 {
         font-size: 14px;
@@ -884,14 +889,14 @@ footer #social-media-footer ul li:hover a .fa-twitter {
         
     }
 
-    #blog .blog-img {
-        width: 95%;
-        margin-right: 0px;
-    }
-
 
     #blog .blog-details {
         width: 95%;
+    }
+
+    #blog .blog-img {
+        width: 95%;
+        margin-right: 0px;
     }
 
     #crypto-news {
@@ -900,6 +905,8 @@ footer #social-media-footer ul li:hover a .fa-twitter {
     #page-header {
         width: 90%;
     }
+
+
 
     
 }
